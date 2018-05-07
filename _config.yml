@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  about: '/about.html'
+  about: '/_posts/2018-05-07-about-me.md'
 
 
 # Footer
