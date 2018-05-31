@@ -67,6 +67,8 @@ exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'R
 
 # Markdown kramdown,redcarpet,rdiscount
 markdown: redcarpet
+safe: false
+pygments: true
 highlighter: rouge
 # kramdown:
 #   input: GFM
