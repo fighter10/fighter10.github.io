@@ -37,8 +37,13 @@ tags: 说明
 
 刚刚电脑死机，还以为写好的这些东西都没有了，伤心了一分钟。打开一看还在，markdown的离线编辑还是挺不错的，那就发表出来吧。
 
+
+{% highlight bash lineanchors %}
+
 ```
 Author：@Dreamer10    
 DaLian，2018-05-07 21：55
 ```
+{% endhighlight %}
+
 
